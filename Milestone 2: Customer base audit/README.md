@@ -10,6 +10,6 @@ Critical Thinking and Problem Solving: Identified high-value segments, churn pat
 
 Data-Driven Decision Making: Evaluated revenue trends, engagement patterns, and cohort behavior to recommend retention strategies and growth opportunities.
 
-Customer Behavior Insights: Assessed differences in purchase frequency, spending, and engagement between high- and low-value customers.
+Customer Behavior Insights: Assessed differences in purchase frequency, spending, and engagement between high and low-value customers.
 
-Business Impact Analysis: Highlighted revenue reliance on top customer segments, seasonal revenue trends, and opportunities for growth among mid- and low-value customers.
+Business Impact Analysis: Highlighted revenue reliance on top customer segments, seasonal revenue trends, and opportunities for growth among mid and low-value customers.
