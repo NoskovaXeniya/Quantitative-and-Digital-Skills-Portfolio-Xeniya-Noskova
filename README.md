@@ -1,1 +1,1 @@
-# Quantitative-and-Digital-Skills-Portfolio-Xeniya-Noskova
+# Quantitative and Digital Skills Portfolio of Xeniya Noskova
