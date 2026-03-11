@@ -4,9 +4,9 @@ This project involved a comprehensive analysis of KazMarket’s customer transac
 
 **Quantitative and Digital Skills Demonstrated:**
 
-Data Analysis & Statistical Reasoning: Organized, processed, and interpreted complex datasets to calculate deciles, retention rates, and profit distributions.
+Data Analysis and Statistical Reasoning: Organized, processed, and interpreted complex datasets to calculate deciles, retention rates, and profit distributions.
 
-Critical Thinking & Problem Solving: Identified high-value segments, churn patterns, and seasonal trends to support strategic decision-making.
+Critical Thinking and Problem Solving: Identified high-value segments, churn patterns, and seasonal trends to support strategic decision-making.
 
 Data-Driven Decision Making: Evaluated revenue trends, engagement patterns, and cohort behavior to recommend retention strategies and growth opportunities.
 
